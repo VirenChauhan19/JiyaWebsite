@@ -1,0 +1,10 @@
+{
+  "disabledMcpjsonServers": [
+    "ruflo"
+  ],
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:jiyaudenia.com)"
+    ]
+  }
+}

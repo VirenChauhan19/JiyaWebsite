@@ -389,10 +389,6 @@ h3 {
   text-transform: uppercase;
 }
 
-.project-showcase .project-card:nth-child(even) {
-  margin-top: 34px;
-}
-
 .story-card {
   padding: 26px;
 }
@@ -720,10 +716,6 @@ h3 {
 
   .project-card {
     min-height: 360px;
-  }
-
-  .project-showcase .project-card:nth-child(even) {
-    margin-top: 0;
   }
 
   .media-tile,
